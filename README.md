@@ -1,2 +1,2 @@
-# Projeto gárgula__Portifolio-de-Tharur
+# Projeto-gárgula__Portifolio-de-Tharur
 Um portifolio de design, arte e tecnologia.
